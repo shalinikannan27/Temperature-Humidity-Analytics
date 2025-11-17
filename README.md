@@ -23,7 +23,7 @@ You can access the live dashboard here:
 
 ## Technology Stack
 
-- **Python 3**
+- **Python**
 - **Pandas** – for data manipulation and analytics
 - **Matplotlib** – for plotting charts
 - **Streamlit** – for creating the interactive dashboard
